@@ -260,6 +260,12 @@ $ vi pip.conf
 index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
+```powershell
+# 设为默认
+pip install pip -U
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 conda更换清华的源
 
 ```
