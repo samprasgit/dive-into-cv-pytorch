@@ -540,6 +540,8 @@ if torch.cuda.is_available():
 tensor([0.5906], device='cuda:0')
 tensor([0.5906], dtype=torch.float64)
 
+-->todo 多GPU选择
+
 
 ---
 
@@ -551,9 +553,9 @@ tensor([0.5906], dtype=torch.float64)
 
 校对：[安晟](https://github.com/monkeyDemon)
 
-
 **参考资料**
 
 1. 《Pytorch深度学习》
 
 2.  [Pytorch官网](http://pytorch.org/)
+
