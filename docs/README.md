@@ -47,8 +47,8 @@
     - [x] [3.5 损失函数](https://datawhalechina.github.io/dive-into-cv-pytorch/#/chapter03_object_detection_introduction/3_5.md)
     - [x] [3.6 训练与测试](https://datawhalechina.github.io/dive-into-cv-pytorch/#/chapter03_object_detection_introduction/3_6.md)
 
-* 第四章: 你猜猜
-    - 推进中...
+* 第四章: Semantic Segmentation
+    - Todo
 
 
 ## 常见问题
