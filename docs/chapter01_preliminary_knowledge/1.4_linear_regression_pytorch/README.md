@@ -54,7 +54,7 @@
    #b定义成零矩阵:
    b = Variable(torch.zeros(1),requires_grad=True)
    #定义线性模型:
-   def linar_model(x):
+   def linear_model(x):
    return w *x +b
    ```
 
@@ -88,7 +88,7 @@
        #梯度下降
        w.data = w.data -le-2*w.grad.data
        b.data = b.data -le-2*bgrad.data
-       Print(‘epoch:{},loss:{}’,format(e,loss.data[0])
+       print(‘epoch:{},loss:{}’,format(e,loss.data[0])
    ```
 
    
